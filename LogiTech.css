@@ -1,0 +1,399 @@
+.header {
+    background-color: #fff;
+    height: 48px;
+}
+body {
+    margin: 0;
+}
+.logiheaderimage{
+    color: gray;
+    padding-left: 161px;
+    padding-top: 1px;
+    cursor: pointer;
+    
+}
+.ourbrand {
+    width: 100px;
+    padding-left: 10px;
+    padding-top: 10px;
+    cursor: pointer;
+
+}
+.mainimage {
+    width: 100%;
+    margin-top: 5px;
+    cursor: pointer;
+}
+.india {
+    width: 100px;
+    padding-left: 930px;
+    cursor: pointer;
+}
+.headset {
+    margin-top: 626px;
+    margin-left: 156px;
+    cursor: pointer;
+}
+#headset {
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: 700;
+    font-family: brown,Helvetica,Arial,sans-serif;
+    margin-left: 158px;
+    letter-spacing: 0.28px;
+}
+#waynoise {
+    margin-left: 158px;
+    font-family: brown,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 250;
+    margin-top: -23px;
+    letter-spacing: 0.50px;
+
+}
+#Discoverzone {
+    color: var(--p-accent-color,#2f3132);
+    font-family: brown,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.28px;
+    margin-left: 158px;
+    cursor: pointer;
+    margin-top: -19px;
+}
+.shopezone {
+    color: var(--p-accent-color,#2f3132);
+    font-family: brown,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.28px;
+    margin-left: 158px;
+    cursor: pointer;
+}
+#imgkeyboard {
+    margin-left: 15px;
+
+
+}
+#feel {
+    margin-left: 569px;
+    font-family: brown,Helvetica,Arial,sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: -42px;
+    letter-spacing: 0.28px;
+}
+.get {
+    font-family: brown,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 568px;
+    margin-top: -33px;
+}
+#feelgood {
+    margin-left: 567px;
+    font-family: brown,Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: -41px;
+    letter-spacing: 0.50px;
+    
+}
+#disc {
+    color: var(--p-accent-color,#2f3132);
+    font-family: brown,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.28px;
+    margin-left: 569px;
+    cursor: pointer;
+    margin-top: -16px;
+}
+.camera {
+    margin-left: 15px;
+
+}
+#cbb {
+    margin-left: 978px;
+    margin-top: -46px;
+    font-family: brown,Helvetica,Arial,sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0.28px;
+    cursor: pointer;
+}
+#look {
+    margin-left: 980px;
+    margin-top: -40px;
+    font-size: 16px;
+    font-weight: 1;
+    font-family: brown,Helvetica,Arial,sans-serif;
+    letter-spacing: 1px;
+}
+#brio {
+    margin-left: 979px;
+    margin-top: -18px;
+    color: var(--p-accent-color,#2f3132);
+    font-family: brown,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.28px;
+    cursor: pointer;
+}
+#micekeyboard {
+    margin-top: 123px;
+    margin-left: 160px;
+    width: 793.33px;
+    cursor: pointer;
+}
+.mktitle {
+    margin-left: 474px;
+    margin-top: -68px;
+    color: #2f3132;
+    cursor: pointer;
+    font-family: brown,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+
+}
+#webcam {
+    margin-left: 975px;
+    margin-top: -417px;
+    width: 415px;
+    cursor: pointer;
+}
+#vico {
+    color: #2f3132;
+    cursor: pointer;
+    font-family: brown,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 1108px;
+    margin-top: -68px;
+}
+#mobd {
+    margin-left: 160px;
+    margin-top: -203px;
+    width: 405.66px;
+    cursor: pointer;
+}
+#md {
+    color: #2f3132;
+    cursor: pointer;
+    font-family: brown,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 292px;
+    margin-top: -63px;
+}
+#headanear {
+    margin-left: 587px;
+    margin-top: -221px;
+    cursor: pointer;
+}
+#hd {
+    color: #2f3132;
+    cursor: pointer;
+    font-family: brown,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 673px;
+    margin-top: -67px;
+}
+#dots {
+    margin-top: 4px;
+    margin-left: 669px;
+    width: 190px;
+}
+#lastmain {
+    margin-top: 105px;
+    margin-left: 0;
+    width: 100%;
+    height: 639px;
+}
+.footer {
+    background-color: #252a2c;
+    width: 100%;
+    height: 716px;
+    margin-top: 513px;
+    margin-bottom: -34px;
+}
+.about {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: brown,Helvetica,Arial,sans-serif;
+    margin-top: -517px;
+    margin-left: 160px;
+    padding-top: 107px;
+
+}
+.values {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: brown,Helvetica,Arial,sans-serif;
+    margin-top: -33px;
+    margin-left: 459px;
+}
+.customers {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: brown,Helvetica,Arial,sans-serif;
+    margin-top: -27px;
+    margin-left: 770px;
+}
+.list1 {
+    color: #c3c6c8!important;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 18px;
+    font-family: brown,Helvetica,Arial,sans-serif;
+    display: block;
+    text-align: left;
+    margin-left: 105px;
+    margin-top: 16px;
+
+}
+li {
+    padding: 13px;
+    letter-spacing: 0.28px;
+    cursor: pointer;
+}
+.list2 {
+    color: #c3c6c8!important;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 18px;
+    font-family: brown,Helvetica,Arial,sans-serif;
+    display: block;
+    text-align: left;
+    margin-left: 404px;
+    margin-top: -277px;
+
+}
+.list3 {
+    color: #c3c6c8!important;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 18px;
+    font-family: brown,Helvetica,Arial,sans-serif;
+    display: block;
+    text-align: left;
+    margin-left: 755px;
+    margin-top: -145px;
+}
+#line {
+    width: 1204px;
+    margin-bottom: 3;
+    margin-top: 263px;
+    margin-left: 154px;
+    
+}
+#facebook {
+    width: 32px;
+    margin-left: 155px;
+    margin-top: 20px;
+}
+#x {
+    width: 32px;
+    margin-left: 22px;
+    margin-top: 19px;
+
+}
+#insta {
+    width: 28px;
+    margin-left: 22px;
+    margin-top: 19px;
+}
+.input {
+    font-size: 16px;
+    background: #fff;
+    flex: 1 0 200px;
+    height: 20px;
+    margin-top: -9%;
+    margin-left: 63%;
+    color: #2f3132;
+    width: 345px;
+    padding-top: 28px;
+    padding-bottom: -45px;
+    padding: 10px 20px;
+}
+.submit {
+    margin-top: -34px;
+    background-color: #dcfd00;
+    cursor: pointer;
+    height: 41px;
+    width: 45px;
+    margin-left: -35px;
+    padding: 16px;
+    border: none;
+    display: inline-block;
+}
+.submit-label-icon {
+    border-bottom: 5px solid rgba(0,0,0,0);
+    
+    border-top: 5px solid rgba(0,0,0,0);
+    display: inline-block;
+    margin-left: -32px;
+    margin-top: 0px;
+}
+#checkbox {
+    margin-top: 9px;
+    margin-left: 958px;
+    border: 2px solid #2f3132;
+    width: 19px;
+    height: 19px;
+    cursor: pointer;
+}
+#yes {
+    margin-left: 990px;
+    margin-top: -24px;
+    font-family: brown,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    cursor: pointer;
+    color: rgb(195,198, 200);
+    letter-spacing: 0.28px;
+
+}
+#privacy {
+    font-family: brown,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+    color: rgb(195,198, 200);
+    letter-spacing: 0.28px;
+    margin-left: 1019px;
+    margin-top: -31px;
+}
+.lastlist {
+    color: #c3c6c8!important;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 18px;
+    font-family: brown,Helvetica,Arial,sans-serif;
+    display: block;
+    text-align: left;
+    margin-left: 105px;
+    margin-top: 16px;
+    list-style-type: none;
+    padding-top: 26px;
+
+    
+}
+.india1{
+    width: 100px;
+    margin-top: 0px;
+    margin-left: 284px;
+}
+.message{
+    width: 66px;
+    margin-left: 436px;
+    margin-top: -59px;
+    position: sticky;
+    background-attachment: fixed;
+    transform-origin: bottom;
+    cursor: pointer;
+}
